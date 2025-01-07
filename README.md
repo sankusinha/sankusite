@@ -1,2 +1,1 @@
-# sankusite
-Personal Website
+My personal website, static html page
