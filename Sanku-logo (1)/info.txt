@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Shrikhand-Regular
+font link: https://fonts.google.com/specimen/Shrikhand
+font author: Jonny Pinhorn
+font author site: https://twitter.com/jonpinhorn_type
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Paul Berthelon
+icon designer link: /paulberthelon
+        
+{"bg":"#00acff","icon":"#010033","font":"#ffffff","slogan":"#ffffff"}
+      
